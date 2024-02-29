@@ -25,3 +25,4 @@ git remote add github https://github.com/RaspinellVell/mario-database.git
 git remote -v
 git branch -M main
 git push -u github main
+git push -u github main
